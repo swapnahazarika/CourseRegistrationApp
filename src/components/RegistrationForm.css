@@ -1,0 +1,16 @@
+.registration-form {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+}
+
+.registration-form .form-group {
+    margin-bottom: 15px;
+}
+
+.registration-form .button {
+    background-color: #007bff;
+    color: white;
+}
